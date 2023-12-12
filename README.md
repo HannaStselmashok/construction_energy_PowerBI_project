@@ -1,10 +1,12 @@
 # Dashboards for a construction company
 
 ## Generaal information
+
+### About the customer
 - The customer is a construction company that builds solar and storage projects in the US market
 - 6 active projects
 
-## Users and context
+### Users and context
 **CEO:**
 - Once a month to see an overall picture (General view)
 
@@ -12,7 +14,7 @@
 - Once a week to see an overall picture (General view)
 - Daily for monitoring (Individual view)
 
-## Main goals
+### Main goals
 **General view:**
 - Overview of all projects
 - Financial overview
@@ -25,3 +27,7 @@
 - Resource utilization
 - Financial overview
 - Risk and issue management
+
+## Dashboards creation
+
+### Creating a data model
