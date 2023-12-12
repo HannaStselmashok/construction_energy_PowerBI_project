@@ -31,3 +31,4 @@
 ## Dashboards creation
 
 ### Creating a data model
+![data_model](https://github.com/HannaStselmashok/construction_energy/assets/99286647/d46cbe20-c271-46cb-b37a-79c1219772d6)
