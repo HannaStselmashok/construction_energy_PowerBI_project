@@ -1,0 +1,494 @@
+project_id,risk_id,risk_name,risk_detection,risk_resolution,cost
+6,10,Legal Risks,8/17/2018,8/18/2018,2104.882075
+6,4,Technology and Design Risks,8/18/2018,9/26/2018,2943.908176
+6,10,Legal Risks,9/2/2018,9/8/2018,1237.7886
+6,3,Supply Chain and Procurement Risks,9/2/2018,9/15/2018,1353.398561
+6,12,Cybersecurity Risks,9/3/2018,9/28/2018,1995.25352
+6,3,Supply Chain and Procurement Risks,9/12/2018,9/15/2018,1522.946647
+6,8,Operational and Maintenance Risks,10/2/2018,11/4/2018,2580.115774
+6,11,Technology Integration Risks,10/18/2018,11/13/2018,922.3767717
+6,8,Operational and Maintenance Risks,10/29/2018,11/9/2018,2088.959611
+6,11,Technology Integration Risks,10/30/2018,11/6/2018,797.0672043
+6,4,Technology and Design Risks,11/9/2018,11/24/2018,1342.337507
+6,10,Legal Risks,11/12/2018,11/17/2018,3244.189347
+6,11,Technology Integration Risks,11/27/2018,12/7/2018,273.5440106
+6,7,Performance Risks,12/7/2018,12/29/2018,3170.672503
+6,7,Performance Risks,1/4/2019,1/7/2019,189.6850683
+6,1,Regulatory and Permitting Risks,2/4/2019,3/6/2019,2555.096278
+6,3,Supply Chain and Procurement Risks,2/11/2019,3/12/2019,2114.994087
+6,7,Performance Risks,2/13/2019,3/9/2019,1956.940468
+6,10,Legal Risks,2/21/2019,2/24/2019,995.8249387
+6,11,Technology Integration Risks,2/22/2019,3/19/2019,1261.503165
+6,9,Health and Safety Risk,2/23/2019,2/26/2019,2996.221311
+6,4,Technology and Design Risks,2/25/2019,3/5/2019,2981.216796
+6,13,Insurance Risks,3/7/2019,4/9/2019,1000.577576
+6,3,Supply Chain and Procurement Risks,3/15/2019,3/19/2019,3024.557403
+6,9,Health and Safety Risk,4/29/2019,5/29/2019,1066.883114
+6,10,Legal Risks,5/27/2019,6/4/2019,1713.835473
+6,11,Technology Integration Risks,6/9/2019,6/29/2019,1954.738656
+6,2,Environmental Risks,6/19/2019,6/28/2019,1324.303732
+6,4,Technology and Design Risks,7/3/2019,7/5/2019,3167.518446
+6,3,Supply Chain and Procurement Risks,7/4/2019,7/24/2019,320.2827727
+6,5,Financial Risks,7/11/2019,8/2/2019,2531.800027
+6,4,Technology and Design Risks,7/20/2019,8/27/2019,1244.645483
+6,11,Technology Integration Risks,7/24/2019,8/5/2019,1072.866025
+6,1,Regulatory and Permitting Risks,7/24/2019,8/14/2019,2934.270762
+6,5,Financial Risks,9/14/2019,10/6/2019,799.9549652
+6,4,Technology and Design Risks,9/21/2019,10/29/2019,1226.003019
+6,9,Health and Safety Risk,10/4/2019,10/31/2019,1393.94859
+6,10,Legal Risks,10/7/2019,11/9/2019,3305.763465
+6,1,Regulatory and Permitting Risks,10/17/2019,11/10/2019,2070.651249
+6,5,Financial Risks,10/23/2019,11/17/2019,2740.777268
+6,1,Regulatory and Permitting Risks,10/24/2019,11/29/2019,1676.263888
+6,2,Environmental Risks,11/4/2019,11/16/2019,1834.885662
+6,9,Health and Safety Risk,11/16/2019,12/24/2019,2153.662328
+6,9,Health and Safety Risk,12/15/2019,1/4/2020,727.5283597
+6,10,Legal Risks,12/27/2019,1/16/2020,2107.94107
+6,5,Financial Risks,12/28/2019,1/25/2020,2510.411653
+6,7,Performance Risks,1/13/2020,2/20/2020,1251.206771
+6,3,Supply Chain and Procurement Risks,1/17/2020,2/15/2020,2302.373054
+6,8,Operational and Maintenance Risks,2/19/2020,3/24/2020,844.5904747
+6,3,Supply Chain and Procurement Risks,2/28/2020,3/11/2020,325.6058935
+6,5,Financial Risks,4/18/2020,5/17/2020,2937.358672
+6,6,Construction and Execution Risks,5/4/2020,6/1/2020,2772.96094
+6,1,Regulatory and Permitting Risks,5/9/2020,6/16/2020,2692.067128
+6,7,Performance Risks,5/18/2020,6/18/2020,1754.434092
+6,11,Technology Integration Risks,5/20/2020,5/25/2020,2809.224913
+6,12,Cybersecurity Risks,5/22/2020,6/4/2020,3192.486778
+6,8,Operational and Maintenance Risks,5/27/2020,6/18/2020,1745.368715
+6,6,Construction and Execution Risks,6/20/2020,7/5/2020,602.9449154
+6,2,Environmental Risks,7/17/2020,8/14/2020,2051.202841
+6,4,Technology and Design Risks,7/20/2020,8/22/2020,655.7216627
+6,5,Financial Risks,7/25/2020,8/8/2020,1088.827577
+6,11,Technology Integration Risks,7/30/2020,8/13/2020,1821.546952
+6,3,Supply Chain and Procurement Risks,8/9/2020,8/25/2020,2451.132732
+6,3,Supply Chain and Procurement Risks,8/11/2020,8/29/2020,2246.000005
+6,4,Technology and Design Risks,8/28/2020,9/17/2020,2849.493558
+6,1,Regulatory and Permitting Risks,9/18/2020,10/16/2020,1691.523641
+6,8,Operational and Maintenance Risks,10/23/2020,11/28/2020,1802.208108
+6,4,Technology and Design Risks,11/25/2020,12/25/2020,527.4650317
+6,1,Regulatory and Permitting Risks,12/7/2020,12/20/2020,2227.074183
+6,12,Cybersecurity Risks,12/12/2020,1/10/2021,130.8944329
+6,4,Technology and Design Risks,12/15/2020,1/9/2021,2548.749134
+6,3,Supply Chain and Procurement Risks,1/9/2021,2/16/2021,2329.847069
+6,6,Construction and Execution Risks,1/12/2021,1/28/2021,567.4804677
+6,11,Technology Integration Risks,1/24/2021,2/16/2021,2784.630361
+6,10,Legal Risks,2/3/2021,2/9/2021,1310.363785
+6,11,Technology Integration Risks,2/28/2021,3/28/2021,1753.834785
+6,7,Performance Risks,3/17/2021,4/9/2021,1228.857412
+6,1,Regulatory and Permitting Risks,3/22/2021,4/25/2021,576.695644
+2,8,Operational and Maintenance Risks,4/17/2021,5/5/2021,841.05
+6,10,Legal Risks,4/18/2021,5/3/2021,2274.168816
+6,1,Regulatory and Permitting Risks,4/28/2021,5/23/2021,1524.621999
+2,11,Technology Integration Risks,4/28/2021,5/12/2021,118.13
+6,11,Technology Integration Risks,4/29/2021,5/4/2021,2619.847905
+6,4,Technology and Design Risks,5/3/2021,6/1/2021,2790.312233
+2,10,Legal Risks,5/3/2021,5/30/2021,1744.77
+6,4,Technology and Design Risks,5/5/2021,5/21/2021,2460.623267
+2,1,Regulatory and Permitting Risks,5/15/2021,6/18/2021,2082.46
+2,4,Technology and Design Risks,6/5/2021,6/28/2021,1811.98
+2,9,Health and Safety Risk,6/17/2021,7/5/2021,146.85
+2,12,Cybersecurity Risks,6/18/2021,6/24/2021,248.49
+2,8,Operational and Maintenance Risks,6/20/2021,7/24/2021,852.35
+2,7,Performance Risks,6/25/2021,7/9/2021,249.49
+2,12,Cybersecurity Risks,6/26/2021,7/27/2021,1633.84
+2,7,Performance Risks,6/26/2021,6/27/2021,2745.74
+2,7,Performance Risks,6/26/2021,7/15/2021,411.55
+2,7,Performance Risks,6/28/2021,7/21/2021,651.75
+2,4,Technology and Design Risks,6/28/2021,7/1/2021,55.69
+2,12,Cybersecurity Risks,7/8/2021,8/5/2021,607.88
+5,3,Supply Chain and Procurement Risks,7/8/2021,8/1/2021,1136.02
+6,11,Technology Integration Risks,7/25/2021,7/30/2021,2147.928876
+2,11,Technology Integration Risks,7/26/2021,9/3/2021,2230.27
+2,9,Health and Safety Risk,8/1/2021,9/7/2021,2215.79
+2,8,Operational and Maintenance Risks,8/11/2021,8/25/2021,2457.57
+2,3,Supply Chain and Procurement Risks,8/12/2021,8/13/2021,846.79
+6,8,Operational and Maintenance Risks,8/18/2021,9/21/2021,2175.054965
+5,5,Financial Risks,8/19/2021,9/22/2021,863.22
+6,8,Operational and Maintenance Risks,8/21/2021,9/20/2021,1230.018637
+5,2,Environmental Risks,8/22/2021,9/16/2021,331.38
+2,12,Cybersecurity Risks,8/23/2021,9/18/2021,2104.47
+6,5,Financial Risks,8/24/2021,9/5/2021,1127.80894
+5,9,Health and Safety Risk,8/25/2021,9/16/2021,1314.33
+5,10,Legal Risks,8/28/2021,9/7/2021,266.2
+5,6,Construction and Execution Risks,8/30/2021,9/4/2021,945.15
+2,8,Operational and Maintenance Risks,8/31/2021,10/6/2021,1049.84
+5,8,Operational and Maintenance Risks,9/1/2021,9/5/2021,399.23
+2,2,Environmental Risks,9/6/2021,9/23/2021,1681.36
+2,11,Technology Integration Risks,9/7/2021,10/10/2021,1936.48
+2,5,Financial Risks,9/10/2021,10/7/2021,1224.96
+5,10,Legal Risks,9/10/2021,9/13/2021,1068.06
+5,8,Operational and Maintenance Risks,9/14/2021,10/7/2021,853.03
+6,6,Construction and Execution Risks,9/19/2021,10/15/2021,1004.799383
+5,5,Financial Risks,9/23/2021,10/30/2021,501.59
+6,2,Environmental Risks,9/25/2021,10/18/2021,2569.42822
+6,3,Supply Chain and Procurement Risks,9/25/2021,10/16/2021,1266.276126
+2,12,Cybersecurity Risks,10/6/2021,11/6/2021,2163.33
+2,12,Cybersecurity Risks,10/17/2021,11/9/2021,415.35
+2,7,Performance Risks,10/20/2021,11/7/2021,425.1
+2,12,Cybersecurity Risks,10/25/2021,11/12/2021,644.61
+5,2,Environmental Risks,10/26/2021,11/9/2021,734.24
+2,10,Legal Risks,10/27/2021,11/27/2021,511.15
+2,10,Legal Risks,10/28/2021,11/12/2021,1570.98
+5,8,Operational and Maintenance Risks,11/6/2021,11/24/2021,476.02
+5,5,Financial Risks,11/6/2021,11/11/2021,1291.6
+2,13,Insurance Risks,11/9/2021,11/27/2021,2473.05
+6,11,Technology Integration Risks,11/16/2021,12/17/2021,2180.852841
+6,2,Environmental Risks,11/25/2021,12/2/2021,1099.018247
+6,10,Legal Risks,11/25/2021,12/9/2021,651.9655281
+6,10,Legal Risks,11/26/2021,12/2/2021,1644.806493
+2,7,Performance Risks,12/2/2021,12/12/2021,1717.92
+2,10,Legal Risks,12/5/2021,12/31/2021,1671.66
+5,7,Performance Risks,12/5/2021,12/20/2021,666.96
+2,11,Technology Integration Risks,12/7/2021,12/19/2021,710.01
+5,7,Performance Risks,12/12/2021,12/28/2021,58.47
+5,6,Construction and Execution Risks,12/22/2021,1/1/2022,945.35
+2,7,Performance Risks,12/26/2021,2/1/2022,2781.38
+5,5,Financial Risks,1/2/2022,2/4/2022,1415.67
+6,3,Supply Chain and Procurement Risks,1/2/2022,2/8/2022,357.8587458
+6,11,Technology Integration Risks,1/4/2022,1/24/2022,2594.784165
+5,7,Performance Risks,1/5/2022,1/29/2022,968.85
+6,5,Financial Risks,1/6/2022,2/13/2022,1948.561277
+5,8,Operational and Maintenance Risks,1/12/2022,2/12/2022,722.42
+2,10,Legal Risks,1/12/2022,1/14/2022,1566.03
+2,6,Construction and Execution Risks,1/22/2022,2/3/2022,1036.73
+2,1,Regulatory and Permitting Risks,1/23/2022,2/22/2022,929.33
+5,8,Operational and Maintenance Risks,1/24/2022,2/22/2022,1294.12
+5,8,Operational and Maintenance Risks,1/28/2022,2/25/2022,1316.42
+5,5,Financial Risks,1/31/2022,2/11/2022,12.63
+6,1,Regulatory and Permitting Risks,2/2/2022,2/24/2022,2836.594644
+5,12,Cybersecurity Risks,2/2/2022,3/7/2022,1572.7
+2,4,Technology and Design Risks,2/3/2022,2/20/2022,2604.61
+2,8,Operational and Maintenance Risks,2/8/2022,2/22/2022,1271.27
+5,7,Performance Risks,2/10/2022,2/15/2022,52.62
+5,3,Supply Chain and Procurement Risks,2/16/2022,2/24/2022,123.68
+6,7,Performance Risks,2/21/2022,3/23/2022,921.310886
+5,7,Performance Risks,2/23/2022,3/3/2022,318.24
+6,1,Regulatory and Permitting Risks,2/25/2022,4/1/2022,2766.243275
+2,7,Performance Risks,2/28/2022,3/8/2022,744.8
+5,1,Regulatory and Permitting Risks,3/4/2022,3/18/2022,783.36
+1,10,Legal Risks,3/12/2022,4/8/2022,21.13
+2,9,Health and Safety Risk,3/13/2022,4/9/2022,1245.73
+6,1,Regulatory and Permitting Risks,3/14/2022,3/22/2022,842.5639791
+5,3,Supply Chain and Procurement Risks,3/16/2022,4/14/2022,365.07
+1,7,Performance Risks,3/20/2022,4/16/2022,270.19
+5,11,Technology Integration Risks,3/23/2022,4/10/2022,112.2
+1,12,Cybersecurity Risks,3/25/2022,4/2/2022,524.24
+1,5,Financial Risks,3/25/2022,4/21/2022,198.16
+2,9,Health and Safety Risk,3/29/2022,4/21/2022,716.67
+5,2,Environmental Risks,3/30/2022,4/3/2022,578.92
+6,5,Financial Risks,4/1/2022,4/21/2022,712.9558501
+6,4,Technology and Design Risks,4/3/2022,5/4/2022,452.279478
+6,6,Construction and Execution Risks,4/4/2022,5/1/2022,2964.862015
+5,7,Performance Risks,4/8/2022,4/12/2022,60.19
+5,11,Technology Integration Risks,4/10/2022,4/23/2022,913.6
+6,13,Insurance Risks,4/13/2022,4/28/2022,3209.988182
+5,2,Environmental Risks,4/15/2022,5/14/2022,504.37
+2,5,Financial Risks,4/17/2022,4/25/2022,1395.52
+5,7,Performance Risks,5/1/2022,5/19/2022,1003.14
+1,12,Cybersecurity Risks,5/3/2022,5/5/2022,985.98
+2,10,Legal Risks,5/9/2022,5/22/2022,2444.55
+1,9,Health and Safety Risk,5/11/2022,5/21/2022,755.19
+5,12,Cybersecurity Risks,5/15/2022,5/16/2022,1022.32
+6,3,Supply Chain and Procurement Risks,5/19/2022,5/20/2022,1415.233954
+5,11,Technology Integration Risks,5/25/2022,6/27/2022,1458.3
+1,6,Construction and Execution Risks,5/25/2022,6/28/2022,1213.33
+6,6,Construction and Execution Risks,5/26/2022,6/11/2022,2515.963063
+5,3,Supply Chain and Procurement Risks,5/30/2022,6/21/2022,145.51
+2,1,Regulatory and Permitting Risks,6/4/2022,6/27/2022,2118.62
+3,12,Cybersecurity Risks,6/4/2022,6/19/2022,576.5175314
+1,5,Financial Risks,6/11/2022,6/15/2022,1754.06
+2,2,Environmental Risks,6/22/2022,7/1/2022,602.51
+6,2,Environmental Risks,6/23/2022,7/27/2022,1573.065268
+6,5,Financial Risks,6/23/2022,7/18/2022,2204.476839
+5,3,Supply Chain and Procurement Risks,6/26/2022,7/7/2022,851.94
+1,8,Operational and Maintenance Risks,6/27/2022,7/17/2022,1343.93
+5,6,Construction and Execution Risks,7/3/2022,7/20/2022,764.29
+2,10,Legal Risks,7/3/2022,7/11/2022,229.18
+3,9,Health and Safety Risk,7/7/2022,8/6/2022,285.0451148
+1,2,Environmental Risks,7/8/2022,8/8/2022,972.35
+6,6,Construction and Execution Risks,7/8/2022,8/13/2022,1134.162585
+6,4,Technology and Design Risks,7/12/2022,7/28/2022,357.4828146
+5,7,Performance Risks,7/14/2022,7/17/2022,129.65
+1,12,Cybersecurity Risks,7/18/2022,8/18/2022,825.81
+6,2,Environmental Risks,7/19/2022,8/7/2022,764.5399976
+3,2,Environmental Risks,7/21/2022,8/7/2022,1356.285146
+3,2,Environmental Risks,7/25/2022,8/17/2022,949.2658089
+5,6,Construction and Execution Risks,7/26/2022,8/11/2022,875.91
+6,1,Regulatory and Permitting Risks,7/29/2022,7/31/2022,371.1090434
+6,8,Operational and Maintenance Risks,7/29/2022,8/24/2022,3334.581044
+6,8,Operational and Maintenance Risks,8/3/2022,8/18/2022,2915.095386
+5,2,Environmental Risks,8/3/2022,8/5/2022,288.41
+5,12,Cybersecurity Risks,8/5/2022,9/8/2022,922.2
+5,8,Operational and Maintenance Risks,8/6/2022,9/7/2022,693.3
+6,8,Operational and Maintenance Risks,8/8/2022,8/25/2022,286.9653097
+1,2,Environmental Risks,8/9/2022,9/12/2022,627.46
+3,6,Construction and Execution Risks,8/10/2022,8/19/2022,1123.773316
+6,3,Supply Chain and Procurement Risks,8/13/2022,9/14/2022,1988.274678
+6,3,Supply Chain and Procurement Risks,8/13/2022,9/11/2022,2563.800241
+6,13,Insurance Risks,8/15/2022,8/26/2022,2600.18291
+1,8,Operational and Maintenance Risks,8/15/2022,8/18/2022,1324.65
+3,2,Environmental Risks,8/15/2022,8/29/2022,351.0341785
+2,8,Operational and Maintenance Risks,8/17/2022,9/17/2022,1915.49
+6,7,Performance Risks,8/27/2022,9/7/2022,2828.801335
+6,7,Performance Risks,8/30/2022,9/23/2022,2910.556311
+2,13,Insurance Risks,9/4/2022,9/9/2022,2786.28
+1,5,Financial Risks,9/4/2022,9/21/2022,1082.26
+1,4,Technology and Design Risks,9/5/2022,9/28/2022,1275.71
+6,12,Cybersecurity Risks,9/6/2022,9/16/2022,2916.766709
+5,8,Operational and Maintenance Risks,9/10/2022,9/26/2022,398.75
+5,7,Performance Risks,9/10/2022,9/23/2022,850.06
+3,5,Financial Risks,9/10/2022,10/5/2022,1312.813697
+6,4,Technology and Design Risks,9/26/2022,9/28/2022,460.7067219
+6,5,Financial Risks,9/28/2022,10/12/2022,3265.274752
+1,3,Supply Chain and Procurement Risks,9/28/2022,10/20/2022,1712.24
+5,8,Operational and Maintenance Risks,10/2/2022,10/30/2022,375.14
+2,4,Technology and Design Risks,10/11/2022,11/14/2022,1504.45
+1,9,Health and Safety Risk,10/12/2022,11/14/2022,330.29
+3,9,Health and Safety Risk,10/13/2022,11/3/2022,1083.572994
+3,12,Cybersecurity Risks,10/15/2022,10/27/2022,1136.199408
+5,3,Supply Chain and Procurement Risks,10/15/2022,10/19/2022,1340.27
+6,6,Construction and Execution Risks,10/18/2022,10/26/2022,2738.212187
+3,12,Cybersecurity Risks,10/19/2022,11/19/2022,1291.096302
+3,5,Financial Risks,10/22/2022,11/21/2022,554.0353211
+2,4,Technology and Design Risks,10/28/2022,11/27/2022,649.45
+2,3,Supply Chain and Procurement Risks,11/12/2022,11/19/2022,209.97
+5,7,Performance Risks,11/12/2022,12/18/2022,770.06
+1,6,Construction and Execution Risks,11/14/2022,11/17/2022,190.6
+2,8,Operational and Maintenance Risks,11/19/2022,12/20/2022,1584.56
+6,5,Financial Risks,11/20/2022,12/4/2022,1277.707773
+6,11,Technology Integration Risks,11/23/2022,11/30/2022,486.8835466
+1,3,Supply Chain and Procurement Risks,11/23/2022,12/5/2022,853.36
+6,11,Technology Integration Risks,11/25/2022,12/27/2022,1671.601413
+2,7,Performance Risks,11/28/2022,12/25/2022,1156.46
+2,5,Financial Risks,12/2/2022,12/30/2022,1277.19
+5,2,Environmental Risks,12/3/2022,12/19/2022,1488.95
+2,12,Cybersecurity Risks,12/3/2022,1/3/2023,798.24
+1,10,Legal Risks,12/7/2022,12/28/2022,1710.27
+5,8,Operational and Maintenance Risks,12/8/2022,12/30/2022,725.27
+2,10,Legal Risks,12/9/2022,12/15/2022,2588.02
+2,8,Operational and Maintenance Risks,12/14/2022,1/6/2023,1134.47
+6,4,Technology and Design Risks,12/15/2022,1/18/2023,2230.820492
+1,7,Performance Risks,12/16/2022,12/29/2022,1228.27
+6,7,Performance Risks,12/17/2022,1/11/2023,171.7215568
+3,5,Financial Risks,12/18/2022,1/7/2023,10.48145314
+5,10,Legal Risks,12/18/2022,12/19/2022,582.56
+3,6,Construction and Execution Risks,12/19/2022,1/23/2023,730.4936118
+5,2,Environmental Risks,12/23/2022,1/11/2023,1139.01
+1,2,Environmental Risks,12/26/2022,1/29/2023,1285.96
+2,1,Regulatory and Permitting Risks,12/30/2022,1/6/2023,627.39
+5,11,Technology Integration Risks,1/1/2023,2/4/2023,9.82
+5,10,Legal Risks,1/3/2023,1/13/2023,1119.83
+6,9,Health and Safety Risk,1/3/2023,1/25/2023,1034.262844
+2,13,Insurance Risks,1/4/2023,1/13/2023,1006.03
+3,5,Financial Risks,1/4/2023,2/6/2023,1191.844843
+3,12,Cybersecurity Risks,1/6/2023,1/10/2023,1270.590135
+2,8,Operational and Maintenance Risks,1/7/2023,2/15/2023,1541.78
+3,6,Construction and Execution Risks,1/11/2023,1/12/2023,703.4458311
+5,10,Legal Risks,1/12/2023,2/6/2023,903.13
+1,11,Technology Integration Risks,1/16/2023,1/29/2023,1116.24
+1,5,Financial Risks,1/17/2023,2/12/2023,222.09
+1,2,Environmental Risks,1/19/2023,1/27/2023,342.48
+2,10,Legal Risks,1/19/2023,2/26/2023,2427.4
+1,12,Cybersecurity Risks,1/25/2023,3/4/2023,1543.89
+5,3,Supply Chain and Procurement Risks,1/26/2023,2/26/2023,1520.06
+1,13,Insurance Risks,1/28/2023,2/27/2023,611.89
+2,8,Operational and Maintenance Risks,1/28/2023,2/16/2023,2457.71
+3,5,Financial Risks,1/30/2023,2/18/2023,783.606994
+2,8,Operational and Maintenance Risks,2/2/2023,2/15/2023,1283.58
+6,12,Cybersecurity Risks,2/3/2023,3/6/2023,2391.612793
+6,12,Cybersecurity Risks,2/3/2023,3/5/2023,565.2839204
+6,5,Financial Risks,2/4/2023,2/20/2023,1521.287916
+5,1,Regulatory and Permitting Risks,2/8/2023,3/11/2023,1438.73
+2,7,Performance Risks,2/9/2023,3/18/2023,669.66
+3,6,Construction and Execution Risks,2/11/2023,2/24/2023,716.3931263
+3,6,Construction and Execution Risks,2/11/2023,2/20/2023,1339.983138
+3,5,Financial Risks,2/16/2023,3/8/2023,177.9203676
+2,7,Performance Risks,2/26/2023,3/25/2023,191.81
+5,8,Operational and Maintenance Risks,2/26/2023,3/22/2023,874.03
+3,5,Financial Risks,3/4/2023,4/10/2023,105.3659015
+6,13,Insurance Risks,3/4/2023,3/13/2023,2384.880453
+2,10,Legal Risks,3/5/2023,3/9/2023,2237.54
+2,7,Performance Risks,3/6/2023,4/14/2023,2148.36
+5,9,Health and Safety Risk,3/6/2023,4/9/2023,823.37
+5,4,Technology and Design Risks,3/12/2023,4/19/2023,74.08
+5,4,Technology and Design Risks,3/14/2023,4/1/2023,1468.7
+2,9,Health and Safety Risk,3/16/2023,3/19/2023,2106.14
+5,9,Health and Safety Risk,3/18/2023,3/26/2023,938.5
+1,4,Technology and Design Risks,3/18/2023,4/2/2023,371.87
+2,5,Financial Risks,3/28/2023,4/23/2023,809.25
+3,2,Environmental Risks,3/29/2023,4/18/2023,344.7866237
+1,2,Environmental Risks,3/30/2023,5/6/2023,23.73
+3,5,Financial Risks,4/2/2023,4/13/2023,31.55630647
+1,12,Cybersecurity Risks,4/3/2023,5/12/2023,1107.35
+5,5,Financial Risks,4/3/2023,5/4/2023,691.76
+2,9,Health and Safety Risk,4/4/2023,4/29/2023,1031.99
+1,8,Operational and Maintenance Risks,4/9/2023,4/23/2023,1884.41
+5,10,Legal Risks,4/9/2023,5/5/2023,1003.46
+2,12,Cybersecurity Risks,4/11/2023,5/9/2023,199.98
+5,3,Supply Chain and Procurement Risks,4/13/2023,4/25/2023,1334.61
+2,12,Cybersecurity Risks,4/13/2023,5/2/2023,2718.96
+2,13,Insurance Risks,4/13/2023,5/4/2023,2572.16
+6,7,Performance Risks,4/15/2023,5/8/2023,2138.927519
+5,9,Health and Safety Risk,4/18/2023,4/26/2023,955.74
+2,5,Financial Risks,4/19/2023,5/13/2023,269.33
+2,6,Construction and Execution Risks,4/21/2023,5/8/2023,938.45
+3,2,Environmental Risks,4/24/2023,5/17/2023,699.286124
+5,6,Construction and Execution Risks,4/25/2023,5/11/2023,64.77
+6,11,Technology Integration Risks,4/26/2023,5/23/2023,2341.235181
+2,9,Health and Safety Risk,4/27/2023,5/26/2023,2489.93
+3,9,Health and Safety Risk,4/27/2023,5/28/2023,314.4674555
+1,8,Operational and Maintenance Risks,4/27/2023,5/19/2023,187.04
+1,8,Operational and Maintenance Risks,4/28/2023,5/17/2023,2001.5
+6,3,Supply Chain and Procurement Risks,5/1/2023,5/24/2023,2656.685431
+1,2,Environmental Risks,5/6/2023,5/16/2023,879.45
+1,9,Health and Safety Risk,5/15/2023,6/10/2023,824.97
+2,11,Technology Integration Risks,5/18/2023,6/16/2023,636.07
+5,9,Health and Safety Risk,5/22/2023,6/27/2023,1060.84
+5,1,Regulatory and Permitting Risks,5/22/2023,6/2/2023,1252.78
+5,6,Construction and Execution Risks,5/24/2023,6/21/2023,633.11
+3,9,Health and Safety Risk,5/27/2023,6/21/2023,286.6984169
+1,7,Performance Risks,5/30/2023,6/24/2023,1863.38
+2,6,Construction and Execution Risks,5/31/2023,6/11/2023,1772.96
+5,12,Cybersecurity Risks,6/3/2023,6/23/2023,125.41
+6,12,Cybersecurity Risks,6/6/2023,7/10/2023,827.426451
+5,5,Financial Risks,6/8/2023,7/9/2023,99.46
+5,7,Performance Risks,6/10/2023,6/24/2023,1302.12
+2,12,Cybersecurity Risks,6/11/2023,7/17/2023,1436.66
+5,7,Performance Risks,6/12/2023,6/19/2023,663.17
+5,7,Performance Risks,6/13/2023,7/3/2023,1223.84
+6,2,Environmental Risks,6/14/2023,6/23/2023,883.3019301
+3,12,Cybersecurity Risks,6/15/2023,7/21/2023,1320.535375
+5,7,Performance Risks,6/17/2023,7/21/2023,1337.5
+5,2,Environmental Risks,6/18/2023,7/27/2023,1325.73
+6,11,Technology Integration Risks,6/21/2023,7/11/2023,828.1676487
+2,8,Operational and Maintenance Risks,6/22/2023,6/30/2023,2073.5
+2,2,Environmental Risks,6/23/2023,7/15/2023,1868.78
+2,4,Technology and Design Risks,6/24/2023,7/17/2023,1082.73
+1,7,Performance Risks,6/25/2023,7/4/2023,560.72
+2,3,Supply Chain and Procurement Risks,6/26/2023,7/16/2023,359.1
+3,9,Health and Safety Risk,6/27/2023,7/31/2023,646.1339634
+4,3,Supply Chain and Procurement Risks,6/27/2023,6/30/2023,619.35
+4,1,Regulatory and Permitting Risks,6/27/2023,8/1/2023,782
+4,8,Operational and Maintenance Risks,6/29/2023,7/13/2023,1127.81
+6,4,Technology and Design Risks,6/30/2023,7/5/2023,25.40510502
+5,7,Performance Risks,6/30/2023,7/26/2023,1480.55
+3,9,Health and Safety Risk,6/30/2023,7/27/2023,248.2985319
+1,7,Performance Risks,6/30/2023,7/22/2023,267.41
+4,2,Environmental Risks,7/3/2023,7/12/2023,582.52
+1,10,Legal Risks,7/3/2023,8/3/2023,778.06
+4,3,Supply Chain and Procurement Risks,7/3/2023,7/21/2023,1403.83
+1,12,Cybersecurity Risks,7/4/2023,7/13/2023,924.79
+4,6,Construction and Execution Risks,7/4/2023,8/3/2023,1604.93
+4,13,Insurance Risks,7/4/2023,7/31/2023,1635.43
+2,6,Construction and Execution Risks,7/9/2023,7/22/2023,388.93
+1,12,Cybersecurity Risks,7/9/2023,7/31/2023,1587.28
+1,12,Cybersecurity Risks,7/10/2023,7/14/2023,427.37
+5,10,Legal Risks,7/11/2023,7/24/2023,584.01
+6,10,Legal Risks,7/11/2023,8/2/2023,1419.75368
+6,10,Legal Risks,7/14/2023,8/11/2023,3069.7817
+5,5,Financial Risks,7/16/2023,8/18/2023,1250.5
+4,11,Technology Integration Risks,7/16/2023,7/21/2023,647.29
+2,10,Legal Risks,7/16/2023,7/20/2023,1188.93
+5,11,Technology Integration Risks,7/18/2023,8/13/2023,245.06
+4,7,Performance Risks,7/21/2023,8/4/2023,1482.63
+1,12,Cybersecurity Risks,7/27/2023,8/6/2023,114.36
+3,12,Cybersecurity Risks,7/29/2023,8/1/2023,876.2799534
+2,10,Legal Risks,8/1/2023,8/18/2023,1167
+1,9,Health and Safety Risk,8/1/2023,8/22/2023,1292.86
+2,3,Supply Chain and Procurement Risks,8/4/2023,9/5/2023,721.67
+4,9,Health and Safety Risk,8/6/2023,8/31/2023,2289.6
+4,12,Cybersecurity Risks,8/6/2023,9/1/2023,1252.47
+2,4,Technology and Design Risks,8/8/2023,9/16/2023,2242.24
+4,10,Legal Risks,8/8/2023,8/21/2023,2299.32
+4,3,Supply Chain and Procurement Risks,8/9/2023,9/17/2023,1605.57
+4,3,Supply Chain and Procurement Risks,8/11/2023,9/15/2023,269.29
+2,7,Performance Risks,8/15/2023,9/2/2023,1014.6
+2,6,Construction and Execution Risks,8/16/2023,8/24/2023,881.96
+4,4,Technology and Design Risks,8/16/2023,9/17/2023,554.16
+5,10,Legal Risks,8/17/2023,8/31/2023,494.08
+1,2,Environmental Risks,8/18/2023,8/29/2023,505.64
+4,13,Insurance Risks,8/18/2023,8/19/2023,607.28
+6,9,Health and Safety Risk,8/19/2023,9/14/2023,1725.674131
+6,3,Supply Chain and Procurement Risks,8/23/2023,9/1/2023,256.8497431
+1,3,Supply Chain and Procurement Risks,8/23/2023,9/9/2023,1239.71
+3,6,Construction and Execution Risks,8/24/2023,8/30/2023,622.1003905
+4,11,Technology Integration Risks,8/24/2023,8/29/2023,462.44
+2,9,Health and Safety Risk,8/26/2023,9/8/2023,1918.05
+5,8,Operational and Maintenance Risks,8/30/2023,9/11/2023,1385.46
+3,6,Construction and Execution Risks,8/31/2023,9/2/2023,769.912571
+4,2,Environmental Risks,9/1/2023,10/3/2023,1379.63
+5,4,Technology and Design Risks,9/2/2023,9/28/2023,230.45
+5,11,Technology Integration Risks,9/3/2023,9/28/2023,776.38
+4,7,Performance Risks,9/4/2023,10/11/2023,2308.18
+4,7,Performance Risks,9/5/2023,9/26/2023,2250.54
+2,7,Performance Risks,9/7/2023,10/15/2023,1359.79
+2,13,Insurance Risks,9/8/2023,10/3/2023,466.11
+1,4,Technology and Design Risks,9/9/2023,10/9/2023,198.88
+1,8,Operational and Maintenance Risks,9/10/2023,9/11/2023,1717.1
+4,9,Health and Safety Risk,9/11/2023,10/1/2023,698.98
+4,10,Legal Risks,9/12/2023,9/16/2023,602.28
+1,5,Financial Risks,9/16/2023,9/30/2023,329.16
+1,8,Operational and Maintenance Risks,9/16/2023,10/17/2023,1067.1
+4,8,Operational and Maintenance Risks,9/18/2023,9/30/2023,2448.41
+4,2,Environmental Risks,9/18/2023,10/24/2023,2237.46
+5,6,Construction and Execution Risks,9/23/2023,9/26/2023,211.43
+4,5,Financial Risks,9/26/2023,10/12/2023,886.38
+4,3,Supply Chain and Procurement Risks,9/27/2023,10/16/2023,375.85
+4,5,Financial Risks,9/28/2023,10/7/2023,108.4
+5,2,Environmental Risks,9/30/2023,11/3/2023,291.64
+4,9,Health and Safety Risk,10/6/2023,11/2/2023,1204.96
+1,6,Construction and Execution Risks,10/8/2023,11/4/2023,1633.16
+5,12,Cybersecurity Risks,10/9/2023,10/21/2023,438.94
+4,2,Environmental Risks,10/10/2023,11/7/2023,1269.5
+6,11,Technology Integration Risks,10/11/2023,10/25/2023,217.8393567
+2,12,Cybersecurity Risks,10/12/2023,11/9/2023,1113.14
+1,9,Health and Safety Risk,10/12/2023,11/15/2023,878.32
+2,4,Technology and Design Risks,10/13/2023,11/10/2023,2687.73
+4,12,Cybersecurity Risks,10/15/2023,10/28/2023,848.22
+3,6,Construction and Execution Risks,10/16/2023,10/23/2023,511.0201228
+4,9,Health and Safety Risk,10/17/2023,11/8/2023,1326.71
+3,9,Health and Safety Risk,10/19/2023,11/18/2023,268.7053806
+3,12,Cybersecurity Risks,10/19/2023,11/8/2023,312.5887712
+6,6,Construction and Execution Risks,10/21/2023,11/3/2023,1382.846977
+5,4,Technology and Design Risks,10/21/2023,11/5/2023,9.2
+2,9,Health and Safety Risk,10/22/2023,11/4/2023,1605.06
+4,7,Performance Risks,10/24/2023,11/20/2023,1053.51
+3,12,Cybersecurity Risks,10/25/2023,11/27/2023,789.9465938
+5,9,Health and Safety Risk,10/25/2023,11/15/2023,295.04
+6,9,Health and Safety Risk,10/25/2023,11/18/2023,998.988865
+6,4,Technology and Design Risks,10/25/2023,11/22/2023,361.1378014
+4,4,Technology and Design Risks,10/26/2023,11/15/2023,1852.26
+4,2,Environmental Risks,10/26/2023,11/18/2023,195.51
+6,9,Health and Safety Risk,10/27/2023,12/2/2023,1436.265549
+5,12,Cybersecurity Risks,10/28/2023,11/10/2023,915.14
+2,10,Legal Risks,10/28/2023,11/2/2023,322.54
+4,11,Technology Integration Risks,10/28/2023,11/26/2023,96.01
+3,12,Cybersecurity Risks,10/30/2023,11/2/2023,81.24955628
+6,7,Performance Risks,10/31/2023,12/7/2023,1495.138725
+6,4,Technology and Design Risks,11/3/2023,11/19/2023,581.9270524
+4,12,Cybersecurity Risks,11/9/2023,11/29/2023,1559.28
+2,2,Environmental Risks,11/10/2023,11/18/2023,1876.6
+1,5,Financial Risks,11/14/2023,12/9/2023,670.62
+5,2,Environmental Risks,11/14/2023,11/30/2023,1073.25
+5,6,Construction and Execution Risks,11/19/2023,12/18/2023,1419.78
+1,9,Health and Safety Risk,11/21/2023,11/26/2023,1405.02
+4,10,Legal Risks,11/23/2023,11/30/2023,1544.27
+5,10,Legal Risks,11/24/2023,11/27/2023,533.08
+1,9,Health and Safety Risk,11/26/2023,12/6/2023,320.65
+4,3,Supply Chain and Procurement Risks,11/27/2023,12/16/2023,936.49
+2,9,Health and Safety Risk,11/29/2023,1/2/2024,2491.15
+5,10,Legal Risks,12/1/2023,12/2/2023,652
+3,12,Cybersecurity Risks,12/1/2023,1/8/2024,820.640231
+6,1,Regulatory and Permitting Risks,12/2/2023,12/13/2023,2355.303192
+1,4,Technology and Design Risks,12/2/2023,1/6/2024,788.99
+1,12,Cybersecurity Risks,12/2/2023,12/6/2023,1713.37
+2,6,Construction and Execution Risks,12/3/2023,12/30/2023,678.78
+5,6,Construction and Execution Risks,12/3/2023,1/7/2024,29.82
+2,3,Supply Chain and Procurement Risks,12/5/2023,1/3/2024,2574.28
+5,10,Legal Risks,12/6/2023,12/18/2023,774.09
+3,12,Cybersecurity Risks,12/8/2023,12/10/2023,1027.299413
+5,8,Operational and Maintenance Risks,12/8/2023,12/18/2023,541.2
+1,3,Supply Chain and Procurement Risks,12/9/2023,1/14/2024,503.8
+4,8,Operational and Maintenance Risks,12/11/2023,12/19/2023,2094.39
+4,5,Financial Risks,12/11/2023,12/16/2023,379.99
