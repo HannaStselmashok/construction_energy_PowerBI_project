@@ -1,0 +1,550 @@
+project_id,resource_id,resource_name,allocation_start_date,cost
+6,1,Human Resources,9/16/2018,9317.77
+6,8,Insurance,9/19/2018,2529.96
+6,8,Insurance,10/6/2018,4426.55
+6,6,Logistics and Transportation,10/15/2018,1115.93
+6,6,Logistics and Transportation,11/9/2018,1851.7
+6,2,Materials and Equipment,11/10/2018,4866.56
+6,6,Logistics and Transportation,11/20/2018,83.75
+6,8,Insurance,12/8/2018,306.2
+6,5,Utilities and Grid Connectivity,12/13/2018,3010.68
+6,5,Utilities and Grid Connectivity,12/30/2018,2401.57
+6,6,Logistics and Transportation,1/16/2019,2887.24
+6,4,Technology and Software,1/20/2019,12816.97
+6,8,Insurance,2/5/2019,758.18
+6,4,Technology and Software,3/2/2019,301.08
+6,2,Materials and Equipment,3/20/2019,1470.76
+6,4,Technology and Software,4/16/2019,13574.23
+6,6,Logistics and Transportation,4/30/2019,3624.82
+6,1,Human Resources,5/3/2019,15648.21
+6,6,Logistics and Transportation,5/8/2019,6425.55
+6,6,Logistics and Transportation,5/14/2019,8688.79
+6,7,Maintenance and O&M (Operations and Maintenance),5/28/2019,4824.51
+6,1,Human Resources,5/29/2019,11560.38
+6,8,Insurance,6/11/2019,1688.1
+6,3,Land and Permits,6/14/2019,2255.6
+6,7,Maintenance and O&M (Operations and Maintenance),7/25/2019,6865.61
+6,5,Utilities and Grid Connectivity,7/30/2019,4609.34
+6,4,Technology and Software,8/2/2019,5577.73
+6,8,Insurance,8/7/2019,4542.36
+6,1,Human Resources,8/18/2019,24777.44
+6,8,Insurance,8/24/2019,3340.16
+6,3,Land and Permits,8/25/2019,2616.21
+6,9,Emergency Response and Security,9/21/2019,1788.31
+6,3,Land and Permits,9/30/2019,1782.91
+6,6,Logistics and Transportation,10/4/2019,2242.42
+6,7,Maintenance and O&M (Operations and Maintenance),10/11/2019,6084.45
+6,7,Maintenance and O&M (Operations and Maintenance),10/21/2019,5344.19
+6,2,Materials and Equipment,11/1/2019,1708.03
+6,7,Maintenance and O&M (Operations and Maintenance),11/3/2019,5571.54
+6,5,Utilities and Grid Connectivity,11/18/2019,198.24
+6,6,Logistics and Transportation,11/18/2019,6928.63
+6,1,Human Resources,11/25/2019,5234.02
+6,6,Logistics and Transportation,12/4/2019,6193.71
+6,6,Logistics and Transportation,12/30/2019,8329.8
+6,3,Land and Permits,1/14/2020,1778.97
+6,2,Materials and Equipment,1/15/2020,5642.43
+6,6,Logistics and Transportation,2/10/2020,1998.27
+6,4,Technology and Software,3/3/2020,2316.86
+6,2,Materials and Equipment,3/21/2020,4662.08
+6,7,Maintenance and O&M (Operations and Maintenance),4/4/2020,3633.11
+6,4,Technology and Software,4/14/2020,2540.09
+6,2,Materials and Equipment,4/22/2020,5075.7
+6,8,Insurance,4/24/2020,3123.65
+6,4,Technology and Software,4/28/2020,6611.04
+6,4,Technology and Software,5/7/2020,6555.28
+6,8,Insurance,5/13/2020,2352.04
+6,5,Utilities and Grid Connectivity,5/19/2020,4464.7
+6,6,Logistics and Transportation,6/3/2020,2282.87
+6,6,Logistics and Transportation,7/13/2020,6082.6
+6,1,Human Resources,7/16/2020,4291.6
+6,8,Insurance,7/18/2020,4296.36
+6,4,Technology and Software,7/30/2020,2238.84
+6,2,Materials and Equipment,8/13/2020,5819.9
+6,3,Land and Permits,9/5/2020,1397.62
+6,2,Materials and Equipment,9/10/2020,8439.4
+6,2,Materials and Equipment,9/17/2020,6491.1
+6,4,Technology and Software,9/28/2020,11259.9
+6,8,Insurance,10/6/2020,1533.16
+6,7,Maintenance and O&M (Operations and Maintenance),10/7/2020,1692.05
+6,2,Materials and Equipment,10/7/2020,2274.08
+6,7,Maintenance and O&M (Operations and Maintenance),10/24/2020,131.38
+6,8,Insurance,11/12/2020,3852.73
+6,6,Logistics and Transportation,11/12/2020,8485.31
+6,5,Utilities and Grid Connectivity,11/16/2020,8634.86
+6,6,Logistics and Transportation,11/26/2020,7463.76
+6,4,Technology and Software,12/26/2020,3397.77
+6,8,Insurance,1/2/2021,472.51
+6,2,Materials and Equipment,1/5/2021,1260.32
+6,5,Utilities and Grid Connectivity,1/12/2021,4521.96
+6,4,Technology and Software,1/16/2021,13424.85
+6,7,Maintenance and O&M (Operations and Maintenance),1/23/2021,1395.19
+6,4,Technology and Software,2/6/2021,695.24
+6,2,Materials and Equipment,3/15/2021,504.1
+6,9,Emergency Response and Security,4/21/2021,3039.43
+6,5,Utilities and Grid Connectivity,4/26/2021,6162.3
+2,2,Materials and Equipment,4/28/2021,6627.1
+2,6,Logistics and Transportation,5/1/2021,1175.63
+2,4,Technology and Software,5/7/2021,2117.44
+2,8,Insurance,5/14/2021,1799.85
+6,5,Utilities and Grid Connectivity,5/15/2021,9706.96
+2,6,Logistics and Transportation,5/19/2021,351.54
+2,3,Land and Permits,5/21/2021,2605.35
+6,7,Maintenance and O&M (Operations and Maintenance),5/30/2021,2354.78
+2,7,Maintenance and O&M (Operations and Maintenance),6/2/2021,2247.31
+2,4,Technology and Software,6/15/2021,2022.51
+2,6,Logistics and Transportation,6/17/2021,793.3
+6,6,Logistics and Transportation,6/17/2021,1039.86
+6,7,Maintenance and O&M (Operations and Maintenance),6/28/2021,2813.12
+5,2,Materials and Equipment,7/8/2021,3739.75
+2,7,Maintenance and O&M (Operations and Maintenance),7/8/2021,220.35
+5,4,Technology and Software,7/16/2021,2179.27
+5,7,Maintenance and O&M (Operations and Maintenance),7/16/2021,8992.91
+6,9,Emergency Response and Security,7/16/2021,2276.35
+6,6,Logistics and Transportation,7/25/2021,8909.17
+2,7,Maintenance and O&M (Operations and Maintenance),7/25/2021,3758.25
+2,8,Insurance,7/26/2021,3206.31
+2,8,Insurance,7/27/2021,4999.56
+5,5,Utilities and Grid Connectivity,7/29/2021,5068.11
+6,3,Land and Permits,8/2/2021,2414.49
+6,7,Maintenance and O&M (Operations and Maintenance),8/4/2021,3714.05
+5,4,Technology and Software,8/7/2021,1492.23
+5,9,Emergency Response and Security,8/18/2021,2595.019536
+2,1,Human Resources,8/19/2021,1562.65
+2,8,Insurance,8/27/2021,2890.74
+5,4,Technology and Software,8/30/2021,1700.43
+2,7,Maintenance and O&M (Operations and Maintenance),8/31/2021,3003.64
+5,1,Human Resources,9/2/2021,8645.11
+2,3,Land and Permits,9/2/2021,254.98
+6,5,Utilities and Grid Connectivity,9/7/2021,2786.59
+6,6,Logistics and Transportation,9/21/2021,15.71
+2,5,Utilities and Grid Connectivity,9/22/2021,714.97
+5,1,Human Resources,9/30/2021,11000.82
+5,5,Utilities and Grid Connectivity,10/7/2021,6566.65
+2,3,Land and Permits,10/9/2021,2556.41
+5,8,Insurance,10/18/2021,3161.159778
+2,3,Land and Permits,10/21/2021,4250.73
+2,6,Logistics and Transportation,10/22/2021,3313.6
+6,5,Utilities and Grid Connectivity,10/22/2021,4422.24
+2,3,Land and Permits,10/25/2021,43.56
+6,6,Logistics and Transportation,10/27/2021,8293.82
+5,8,Insurance,11/1/2021,10384.83435
+2,8,Insurance,11/3/2021,5302.08
+5,6,Logistics and Transportation,11/8/2021,2985.94
+2,1,Human Resources,11/9/2021,178.58
+5,4,Technology and Software,11/12/2021,1648.15
+2,3,Land and Permits,11/14/2021,2097.7
+6,4,Technology and Software,11/14/2021,3083.13
+6,8,Insurance,11/22/2021,524.74
+6,2,Materials and Equipment,11/24/2021,3103.8
+6,5,Utilities and Grid Connectivity,11/27/2021,7699.82
+2,6,Logistics and Transportation,12/2/2021,895.5
+6,7,Maintenance and O&M (Operations and Maintenance),12/4/2021,1558.07
+6,8,Insurance,12/8/2021,3538.37
+2,8,Insurance,12/8/2021,5078.7
+2,3,Land and Permits,12/9/2021,4098.44
+2,3,Land and Permits,12/10/2021,3907.44
+5,3,Land and Permits,12/14/2021,718.87
+6,2,Materials and Equipment,12/19/2021,5542.87
+6,2,Materials and Equipment,12/22/2021,2583.58
+5,9,Emergency Response and Security,12/24/2021,44472.11713
+6,4,Technology and Software,12/29/2021,13108.59
+2,7,Maintenance and O&M (Operations and Maintenance),1/1/2022,2129.9
+6,7,Maintenance and O&M (Operations and Maintenance),1/2/2022,6086.67
+2,4,Technology and Software,1/8/2022,1808.25
+5,2,Materials and Equipment,1/9/2022,20264.71
+2,8,Insurance,1/16/2022,3686.98
+5,7,Maintenance and O&M (Operations and Maintenance),1/26/2022,31138.92
+5,3,Land and Permits,1/29/2022,10352.49
+5,5,Utilities and Grid Connectivity,1/30/2022,2762.16
+2,5,Utilities and Grid Connectivity,2/7/2022,81.28
+2,5,Utilities and Grid Connectivity,2/11/2022,669.06
+6,9,Emergency Response and Security,2/19/2022,1356.44
+5,9,Emergency Response and Security,2/20/2022,30951.74698
+2,4,Technology and Software,2/23/2022,770.47
+5,5,Utilities and Grid Connectivity,2/25/2022,9109.57
+5,8,Insurance,2/26/2022,8156.786441
+1,8,Insurance,3/1/2022,920.22
+1,4,Technology and Software,3/2/2022,11207.83892
+2,3,Land and Permits,3/4/2022,1620.26
+2,8,Insurance,3/6/2022,5461.73
+1,7,Maintenance and O&M (Operations and Maintenance),3/7/2022,2904.470441
+2,4,Technology and Software,3/7/2022,1436.67
+5,2,Materials and Equipment,3/8/2022,5665.76
+2,8,Insurance,3/8/2022,2703.79
+2,3,Land and Permits,3/9/2022,177.2
+6,5,Utilities and Grid Connectivity,3/14/2022,512.26
+5,5,Utilities and Grid Connectivity,3/15/2022,4053.97
+2,5,Utilities and Grid Connectivity,3/22/2022,557.79
+5,3,Land and Permits,3/23/2022,10233.46
+6,6,Logistics and Transportation,3/24/2022,5998.61
+6,9,Emergency Response and Security,3/28/2022,3378.18
+1,2,Materials and Equipment,3/29/2022,7305.768837
+1,6,Logistics and Transportation,3/31/2022,183.6970109
+5,6,Logistics and Transportation,3/31/2022,6451.61
+5,8,Insurance,4/3/2022,9785.252538
+1,8,Insurance,4/6/2022,991.62
+6,3,Land and Permits,4/7/2022,2267.58
+5,7,Maintenance and O&M (Operations and Maintenance),4/10/2022,6917.52
+5,1,Human Resources,4/14/2022,1721.44
+5,4,Technology and Software,4/14/2022,969.95
+2,4,Technology and Software,4/17/2022,2358.32
+1,9,Emergency Response and Security,4/20/2022,1828.99
+1,7,Maintenance and O&M (Operations and Maintenance),4/20/2022,2924.830242
+2,6,Logistics and Transportation,4/20/2022,2532.78
+5,8,Insurance,4/24/2022,6317.571948
+2,2,Materials and Equipment,4/24/2022,7558.88
+1,7,Maintenance and O&M (Operations and Maintenance),4/30/2022,519.0251366
+2,2,Materials and Equipment,5/1/2022,2880.99
+6,4,Technology and Software,5/5/2022,9302.89
+5,4,Technology and Software,5/6/2022,956.81
+3,5,Utilities and Grid Connectivity,5/14/2022,4243.63
+6,1,Human Resources,5/19/2022,12460.25
+1,8,Insurance,5/20/2022,370.02
+6,9,Emergency Response and Security,5/20/2022,2904.75
+3,2,Materials and Equipment,5/20/2022,974.27
+3,5,Utilities and Grid Connectivity,5/22/2022,934.56
+3,8,Insurance,5/23/2022,380.0901379
+2,4,Technology and Software,5/26/2022,2614.99
+2,2,Materials and Equipment,6/3/2022,9703.79
+2,9,Emergency Response and Security,6/4/2022,15514.6
+6,5,Utilities and Grid Connectivity,6/5/2022,2032.13
+5,6,Logistics and Transportation,6/7/2022,4305.1
+3,2,Materials and Equipment,6/8/2022,588.26
+2,5,Utilities and Grid Connectivity,6/12/2022,324.32
+3,4,Technology and Software,6/16/2022,973.16
+2,2,Materials and Equipment,6/17/2022,14025.25
+2,6,Logistics and Transportation,6/20/2022,3371.31
+1,5,Utilities and Grid Connectivity,6/22/2022,6281.645511
+2,9,Emergency Response and Security,6/25/2022,26698.73
+3,3,Land and Permits,7/2/2022,382.32
+6,3,Land and Permits,7/3/2022,2549.74
+1,7,Maintenance and O&M (Operations and Maintenance),7/4/2022,1530.727947
+5,2,Materials and Equipment,7/4/2022,15868.39
+3,8,Insurance,7/10/2022,1178.922694
+3,7,Maintenance and O&M (Operations and Maintenance),7/10/2022,4434.21
+2,8,Insurance,7/11/2022,5201.26
+2,7,Maintenance and O&M (Operations and Maintenance),7/11/2022,5803.44
+2,3,Land and Permits,7/13/2022,2651.13
+3,5,Utilities and Grid Connectivity,7/13/2022,1275.54
+2,2,Materials and Equipment,7/15/2022,7490.96
+3,2,Materials and Equipment,7/15/2022,36.03
+3,3,Land and Permits,7/16/2022,47.86
+5,7,Maintenance and O&M (Operations and Maintenance),7/20/2022,9359.14
+3,2,Materials and Equipment,7/22/2022,1068.58
+1,2,Materials and Equipment,7/23/2022,423.2166812
+1,3,Land and Permits,7/25/2022,10558.01111
+3,8,Insurance,7/25/2022,942.4553662
+2,3,Land and Permits,7/28/2022,441.94
+5,3,Land and Permits,7/28/2022,5947.23
+5,2,Materials and Equipment,7/28/2022,24942.85
+6,3,Land and Permits,7/29/2022,547.5
+2,1,Human Resources,7/30/2022,525.91
+6,2,Materials and Equipment,7/30/2022,5267.9
+1,8,Insurance,8/1/2022,2426.81
+2,4,Technology and Software,8/3/2022,2380.47
+2,5,Utilities and Grid Connectivity,8/5/2022,652.55
+2,3,Land and Permits,8/10/2022,816.06
+2,6,Logistics and Transportation,8/10/2022,3439.73
+1,9,Emergency Response and Security,8/14/2022,724.81
+1,7,Maintenance and O&M (Operations and Maintenance),8/15/2022,1040.953531
+2,5,Utilities and Grid Connectivity,8/15/2022,7.15
+2,1,Human Resources,8/15/2022,1778.57
+1,8,Insurance,8/19/2022,4126.31
+6,6,Logistics and Transportation,8/23/2022,1930.47
+5,7,Maintenance and O&M (Operations and Maintenance),8/24/2022,1508.71
+1,8,Insurance,8/28/2022,2635.1
+2,3,Land and Permits,8/28/2022,1754.28
+1,3,Land and Permits,8/30/2022,13513.56839
+3,5,Utilities and Grid Connectivity,9/2/2022,3528.77
+1,9,Emergency Response and Security,9/2/2022,2950.39
+2,7,Maintenance and O&M (Operations and Maintenance),9/3/2022,6206.78
+2,3,Land and Permits,9/6/2022,1760.34
+1,9,Emergency Response and Security,9/10/2022,9298.45
+3,3,Land and Permits,9/12/2022,133.54
+3,2,Materials and Equipment,9/16/2022,983.81
+3,8,Insurance,9/16/2022,1049.598038
+2,2,Materials and Equipment,9/24/2022,571.6
+2,8,Insurance,9/27/2022,3982.58
+3,7,Maintenance and O&M (Operations and Maintenance),9/30/2022,1897
+5,5,Utilities and Grid Connectivity,9/30/2022,4506.42
+1,2,Materials and Equipment,10/2/2022,4492.125544
+3,2,Materials and Equipment,10/2/2022,542.56
+3,4,Technology and Software,10/2/2022,872.33
+3,6,Logistics and Transportation,10/3/2022,688.76
+6,1,Human Resources,10/3/2022,11219.06
+6,2,Materials and Equipment,10/7/2022,239.11
+3,6,Logistics and Transportation,10/9/2022,2112.3
+3,2,Materials and Equipment,10/9/2022,433.93
+3,6,Logistics and Transportation,10/11/2022,1178.24
+5,2,Materials and Equipment,10/13/2022,10303.75
+5,8,Insurance,10/15/2022,4611.987567
+3,1,Human Resources,10/16/2022,1595.35
+5,8,Insurance,10/18/2022,12230.24221
+5,3,Land and Permits,10/24/2022,246.36
+6,2,Materials and Equipment,10/26/2022,3272.83
+5,2,Materials and Equipment,10/27/2022,7590.58
+3,5,Utilities and Grid Connectivity,10/28/2022,1851.32
+1,6,Logistics and Transportation,10/31/2022,1401.110597
+5,8,Insurance,11/1/2022,15757.94096
+3,3,Land and Permits,11/1/2022,81.87
+3,6,Logistics and Transportation,11/1/2022,1581.08
+2,6,Logistics and Transportation,11/2/2022,513.82
+6,3,Land and Permits,11/5/2022,3126.62
+3,3,Land and Permits,11/6/2022,54.57
+2,4,Technology and Software,11/7/2022,1207.4
+5,7,Maintenance and O&M (Operations and Maintenance),11/7/2022,38180.41
+3,4,Technology and Software,11/11/2022,1145.16
+3,7,Maintenance and O&M (Operations and Maintenance),11/12/2022,6075.59
+6,6,Logistics and Transportation,11/14/2022,4657.55
+2,5,Utilities and Grid Connectivity,11/17/2022,646.32
+6,5,Utilities and Grid Connectivity,11/24/2022,9808.79
+3,1,Human Resources,11/25/2022,3980.26
+1,6,Logistics and Transportation,11/28/2022,310.1125159
+3,6,Logistics and Transportation,11/29/2022,519.38
+6,2,Materials and Equipment,11/30/2022,6367.08
+6,5,Utilities and Grid Connectivity,11/30/2022,7427.29
+6,3,Land and Permits,12/1/2022,1975.25
+5,8,Insurance,12/2/2022,12460.2163
+6,6,Logistics and Transportation,12/3/2022,7594.37
+2,3,Land and Permits,12/5/2022,1890.45
+6,4,Technology and Software,12/5/2022,11307.51
+6,7,Maintenance and O&M (Operations and Maintenance),12/10/2022,932.59
+3,2,Materials and Equipment,12/12/2022,1078.05
+5,1,Human Resources,12/16/2022,3232.85
+1,1,Human Resources,12/20/2022,5590.58
+3,4,Technology and Software,12/22/2022,1638.38
+2,8,Insurance,12/24/2022,1447.88
+3,8,Insurance,12/24/2022,1504.266072
+2,8,Insurance,12/27/2022,3799.26
+3,3,Land and Permits,12/28/2022,18.05
+2,8,Insurance,12/29/2022,4587.34
+2,4,Technology and Software,12/31/2022,485.87
+3,7,Maintenance and O&M (Operations and Maintenance),12/31/2022,992.96
+3,9,Emergency Response and Security,1/1/2023,7431.18
+6,1,Human Resources,1/6/2023,7593.03
+5,6,Logistics and Transportation,1/7/2023,4368.15
+3,2,Materials and Equipment,1/10/2023,873.41
+6,6,Logistics and Transportation,1/15/2023,2533.96
+2,3,Land and Permits,1/21/2023,2173.21
+2,7,Maintenance and O&M (Operations and Maintenance),1/23/2023,30.1
+3,2,Materials and Equipment,1/30/2023,954.66
+3,4,Technology and Software,2/2/2023,1311.36
+5,2,Materials and Equipment,2/3/2023,6410.49
+2,7,Maintenance and O&M (Operations and Maintenance),2/4/2023,5859.1
+2,7,Maintenance and O&M (Operations and Maintenance),2/5/2023,3112.33
+3,2,Materials and Equipment,2/7/2023,480.3
+3,4,Technology and Software,2/8/2023,1151.19
+3,2,Materials and Equipment,2/8/2023,71.9
+3,8,Insurance,2/10/2023,215.9685678
+3,1,Human Resources,2/11/2023,4308.01
+3,3,Land and Permits,2/11/2023,131.71
+6,9,Emergency Response and Security,2/12/2023,3033.87
+2,5,Utilities and Grid Connectivity,2/12/2023,709.9
+6,8,Insurance,2/15/2023,1679.63
+3,9,Emergency Response and Security,2/16/2023,5551.04
+2,3,Land and Permits,2/17/2023,201.72
+5,9,Emergency Response and Security,2/19/2023,30032.68175
+2,2,Materials and Equipment,2/19/2023,3991.28
+2,5,Utilities and Grid Connectivity,2/21/2023,359.19
+1,2,Materials and Equipment,2/22/2023,7149.310152
+3,4,Technology and Software,2/22/2023,1268.31
+3,4,Technology and Software,2/22/2023,682.18
+1,9,Emergency Response and Security,2/23/2023,4197.39
+5,1,Human Resources,2/27/2023,10894.09
+3,4,Technology and Software,2/28/2023,809.24
+5,2,Materials and Equipment,3/3/2023,6226.2
+2,6,Logistics and Transportation,3/3/2023,2618.03
+2,9,Emergency Response and Security,3/4/2023,9605.38
+6,2,Materials and Equipment,3/6/2023,8406.16
+2,8,Insurance,3/6/2023,5123.45
+2,2,Materials and Equipment,3/7/2023,10051.67
+2,7,Maintenance and O&M (Operations and Maintenance),3/9/2023,4280.01
+2,6,Logistics and Transportation,3/13/2023,3173.29
+3,7,Maintenance and O&M (Operations and Maintenance),3/21/2023,304.55
+2,6,Logistics and Transportation,3/24/2023,2991.6
+3,7,Maintenance and O&M (Operations and Maintenance),3/24/2023,3255.93
+5,4,Technology and Software,3/30/2023,2084.72
+5,5,Utilities and Grid Connectivity,4/2/2023,5783.98
+1,2,Materials and Equipment,4/4/2023,7537.328785
+5,3,Land and Permits,4/5/2023,7543.25
+1,7,Maintenance and O&M (Operations and Maintenance),4/7/2023,977.6955579
+2,4,Technology and Software,4/10/2023,2411.32
+5,9,Emergency Response and Security,4/10/2023,10309.4446
+5,8,Insurance,4/11/2023,10633.18081
+3,6,Logistics and Transportation,4/14/2023,170.3
+1,8,Insurance,4/14/2023,1831.57
+5,8,Insurance,4/18/2023,15188.43995
+1,7,Maintenance and O&M (Operations and Maintenance),4/21/2023,4065.035468
+2,1,Human Resources,4/22/2023,2403.3
+3,6,Logistics and Transportation,4/23/2023,574.91
+2,6,Logistics and Transportation,4/25/2023,1381.49
+6,7,Maintenance and O&M (Operations and Maintenance),4/27/2023,6225.11
+3,2,Materials and Equipment,4/29/2023,298.06
+3,6,Logistics and Transportation,5/3/2023,240.22
+6,3,Land and Permits,5/3/2023,592.69
+1,8,Insurance,5/5/2023,4039.39
+2,4,Technology and Software,5/19/2023,3174.84
+3,5,Utilities and Grid Connectivity,5/25/2023,9.8
+3,6,Logistics and Transportation,5/25/2023,572.07
+3,8,Insurance,5/26/2023,1483.543786
+3,6,Logistics and Transportation,5/27/2023,1802.52
+2,6,Logistics and Transportation,5/29/2023,246.95
+2,3,Land and Permits,5/31/2023,3562.22
+3,3,Land and Permits,6/1/2023,433.62
+2,8,Insurance,6/4/2023,687.12
+3,6,Logistics and Transportation,6/17/2023,669.65
+3,6,Logistics and Transportation,6/18/2023,821.88
+3,3,Land and Permits,6/21/2023,76.52
+4,3,Land and Permits,6/23/2023,1735.56
+5,7,Maintenance and O&M (Operations and Maintenance),6/23/2023,11221.36
+1,5,Utilities and Grid Connectivity,6/23/2023,5223.135872
+4,8,Insurance,6/24/2023,7730.49
+4,3,Land and Permits,6/24/2023,353.04
+4,7,Maintenance and O&M (Operations and Maintenance),6/25/2023,1139.13
+3,8,Insurance,6/25/2023,829.1006822
+6,2,Materials and Equipment,6/25/2023,7902.9
+3,3,Land and Permits,6/25/2023,202.44
+4,9,Emergency Response and Security,6/26/2023,694.089843
+5,8,Insurance,6/26/2023,10985.82413
+3,4,Technology and Software,6/27/2023,264.91
+3,3,Land and Permits,6/27/2023,31.99
+5,2,Materials and Equipment,6/28/2023,27433.51
+4,7,Maintenance and O&M (Operations and Maintenance),6/28/2023,3229
+5,7,Maintenance and O&M (Operations and Maintenance),6/28/2023,42067.55
+2,5,Utilities and Grid Connectivity,6/29/2023,388.4
+6,2,Materials and Equipment,6/29/2023,353.98
+4,3,Land and Permits,6/30/2023,303.17
+2,6,Logistics and Transportation,6/30/2023,868.57
+4,5,Utilities and Grid Connectivity,7/1/2023,9995.46
+1,1,Human Resources,7/1/2023,9210.95
+3,7,Maintenance and O&M (Operations and Maintenance),7/3/2023,867.6
+3,2,Materials and Equipment,7/8/2023,695.56
+5,2,Materials and Equipment,7/9/2023,809.35
+1,4,Technology and Software,7/9/2023,2919.950316
+3,4,Technology and Software,7/9/2023,1343.38
+2,3,Land and Permits,7/9/2023,3858.09
+1,1,Human Resources,7/11/2023,947.76
+2,4,Technology and Software,7/11/2023,2155.62
+5,4,Technology and Software,7/14/2023,2223.39
+4,7,Maintenance and O&M (Operations and Maintenance),7/15/2023,1606.59
+4,8,Insurance,7/16/2023,2032.74
+3,6,Logistics and Transportation,7/17/2023,1384.78
+1,3,Land and Permits,7/17/2023,6435.5505
+4,7,Maintenance and O&M (Operations and Maintenance),7/18/2023,1272.63
+4,8,Insurance,7/19/2023,1047.63
+2,5,Utilities and Grid Connectivity,7/20/2023,595.96
+2,4,Technology and Software,7/20/2023,2626.31
+1,7,Maintenance and O&M (Operations and Maintenance),7/21/2023,2519.871676
+6,6,Logistics and Transportation,7/21/2023,7603.93
+4,6,Logistics and Transportation,7/23/2023,7784.62
+4,1,Human Resources,7/23/2023,1528.66
+5,7,Maintenance and O&M (Operations and Maintenance),7/24/2023,10591.08
+3,3,Land and Permits,7/26/2023,89.55
+6,6,Logistics and Transportation,7/28/2023,6124.52
+3,1,Human Resources,7/29/2023,6499.36
+3,8,Insurance,8/1/2023,1437.130882
+3,8,Insurance,8/2/2023,1635.516811
+2,2,Materials and Equipment,8/7/2023,2248.8
+3,4,Technology and Software,8/7/2023,1710.3
+3,4,Technology and Software,8/9/2023,563.2
+4,7,Maintenance and O&M (Operations and Maintenance),8/11/2023,1471.05
+2,1,Human Resources,8/14/2023,2308.02
+5,9,Emergency Response and Security,8/14/2023,3161.159778
+5,5,Utilities and Grid Connectivity,8/15/2023,8480.86
+4,2,Materials and Equipment,8/17/2023,312.22
+3,6,Logistics and Transportation,8/18/2023,65.82
+4,7,Maintenance and O&M (Operations and Maintenance),8/20/2023,2333.17
+3,7,Maintenance and O&M (Operations and Maintenance),8/22/2023,723.8503683
+6,8,Insurance,8/22/2023,3694.05
+4,7,Maintenance and O&M (Operations and Maintenance),8/26/2023,2355.91
+3,3,Land and Permits,8/26/2023,209.16
+5,2,Materials and Equipment,8/28/2023,1503.11
+4,2,Materials and Equipment,8/28/2023,370.77
+3,8,Insurance,8/29/2023,1427.186594
+4,2,Materials and Equipment,8/31/2023,319.73
+6,4,Technology and Software,9/1/2023,4483.28
+4,9,Emergency Response and Security,9/1/2023,3596.627679
+3,1,Human Resources,9/2/2023,699.55
+6,2,Materials and Equipment,9/3/2023,3937.61
+2,3,Land and Permits,9/3/2023,3979.59
+4,7,Maintenance and O&M (Operations and Maintenance),9/3/2023,2486.56
+5,7,Maintenance and O&M (Operations and Maintenance),9/4/2023,6086.4
+2,2,Materials and Equipment,9/5/2023,16187.85
+4,8,Insurance,9/6/2023,11202.35
+6,4,Technology and Software,9/7/2023,2172.45
+6,8,Insurance,9/7/2023,3854.75
+3,5,Utilities and Grid Connectivity,9/7/2023,534.98
+1,8,Insurance,9/11/2023,3591.82
+3,2,Materials and Equipment,9/11/2023,482.18
+6,9,Emergency Response and Security,9/11/2023,2751.74
+4,6,Logistics and Transportation,9/13/2023,6724.63
+3,4,Technology and Software,9/14/2023,914.88
+4,4,Technology and Software,9/14/2023,947.48
+4,7,Maintenance and O&M (Operations and Maintenance),9/18/2023,1132.93
+5,3,Land and Permits,9/19/2023,8703.81
+2,3,Land and Permits,9/21/2023,1293.63
+2,4,Technology and Software,9/21/2023,2095.49
+4,6,Logistics and Transportation,9/23/2023,6568
+1,8,Insurance,9/26/2023,3875.79
+2,4,Technology and Software,9/26/2023,2478.43
+4,7,Maintenance and O&M (Operations and Maintenance),9/27/2023,2891.87
+6,5,Utilities and Grid Connectivity,9/28/2023,6331.78
+4,3,Land and Permits,9/30/2023,712.63
+2,9,Emergency Response and Security,10/1/2023,29.51
+3,2,Materials and Equipment,10/2/2023,663.67
+1,6,Logistics and Transportation,10/3/2023,2959.039876
+3,3,Land and Permits,10/5/2023,257.27
+5,8,Insurance,10/7/2023,6508.06302
+5,3,Land and Permits,10/10/2023,610.48
+6,3,Land and Permits,10/13/2023,912.25
+2,6,Logistics and Transportation,10/14/2023,1859.39
+4,3,Land and Permits,10/14/2023,203.61
+3,2,Materials and Equipment,10/14/2023,358.05
+2,5,Utilities and Grid Connectivity,10/14/2023,797.48
+4,7,Maintenance and O&M (Operations and Maintenance),10/14/2023,2844.27
+1,8,Insurance,10/16/2023,2676.44
+4,4,Technology and Software,10/16/2023,622.27
+2,6,Logistics and Transportation,10/18/2023,753.34
+6,7,Maintenance and O&M (Operations and Maintenance),10/19/2023,4217.02
+3,6,Logistics and Transportation,10/20/2023,1730.92
+3,8,Insurance,10/21/2023,867.6
+1,4,Technology and Software,10/22/2023,9780.610765
+2,1,Human Resources,10/22/2023,908.79
+4,7,Maintenance and O&M (Operations and Maintenance),10/24/2023,1621.65
+2,1,Human Resources,10/25/2023,1838.27
+6,7,Maintenance and O&M (Operations and Maintenance),10/26/2023,7016.22
+5,1,Human Resources,10/26/2023,14521.69
+4,8,Insurance,10/29/2023,3292.41
+4,1,Human Resources,10/29/2023,16637.62
+6,4,Technology and Software,10/30/2023,12538.05
+3,4,Technology and Software,11/1/2023,1601.58
+3,4,Technology and Software,11/2/2023,1344.36
+2,2,Materials and Equipment,11/3/2023,344.07
+6,6,Logistics and Transportation,11/3/2023,4196.26
+4,4,Technology and Software,11/5/2023,120.91
+1,8,Insurance,11/6/2023,2778.59
+4,2,Materials and Equipment,11/6/2023,151.02
+4,4,Technology and Software,11/9/2023,87.72
+2,4,Technology and Software,11/11/2023,1802.8
+2,6,Logistics and Transportation,11/17/2023,3770.25
+1,5,Utilities and Grid Connectivity,11/19/2023,8432.278617
+4,6,Logistics and Transportation,11/20/2023,7828.68
+4,7,Maintenance and O&M (Operations and Maintenance),11/21/2023,120.91
+6,4,Technology and Software,11/21/2023,194.5
+5,6,Logistics and Transportation,11/21/2023,6838.95
+6,1,Human Resources,11/23/2023,29121.25
+5,6,Logistics and Transportation,11/24/2023,5242.13
+6,4,Technology and Software,11/25/2023,10961.28
+4,3,Land and Permits,11/26/2023,2333.61
+6,1,Human Resources,11/27/2023,7502.1
+3,3,Land and Permits,11/27/2023,1165.59
+2,2,Materials and Equipment,11/28/2023,2688.7
+6,2,Materials and Equipment,11/28/2023,7919.86
+3,4,Technology and Software,11/30/2023,3145
+4,8,Insurance,12/2/2023,8142.71
+4,8,Insurance,12/2/2023,11265.69
+5,2,Materials and Equipment,12/3/2023,13204.55
+4,9,Emergency Response and Security,12/7/2023,5650.452478
+3,6,Logistics and Transportation,12/9/2023,590.46
+4,6,Logistics and Transportation,12/10/2023,3240.72
