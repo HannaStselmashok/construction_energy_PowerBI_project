@@ -39,4 +39,5 @@ All [tables](data) were generated using Python(Numpy) and Excel.
 ## Creating dashboards
 Dashboards were created in Power BI Desktop and then published to Power BI Server
 ### General view
-
+![general_view_1](general_view_1.png)
+![general_view_2](general_view_2.png)
