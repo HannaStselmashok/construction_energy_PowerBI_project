@@ -41,3 +41,7 @@ Dashboards were created in Power BI Desktop and then published to Power BI Serve
 ### General view
 ![general_view_1](general_view_1.png)
 ![general_view_2](general_view_2.png)
+
+### Project view (Project 6)
+![project_view](projectl_view_1.png)
+
