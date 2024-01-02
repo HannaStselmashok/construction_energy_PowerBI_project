@@ -1,6 +1,6 @@
 # Dashboards for a construction company
 
-## Generaal information
+## General information
 
 ### About the customer
 - The customer is a construction company that builds solar and storage projects in the US market
